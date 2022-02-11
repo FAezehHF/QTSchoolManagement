@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>loginpage.qml</file>
+        <file>Managepage.qml</file>
+        <file>addStudent.qml</file>
+        <file>addTeacher.qml</file>
+    </qresource>
+</RCC>
